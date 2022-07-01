@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "https://praveenme117.github.io/csb-cunh4t/static/css/main.fcd3cfe6.chunk.css",
-    "main.js": "https://praveenme117.github.io/csb-cunh4t/static/js/main.32fe7259.chunk.js",
-    "main.js.map": "https://praveenme117.github.io/csb-cunh4t/static/js/main.32fe7259.chunk.js.map",
+    "main.js": "https://praveenme117.github.io/csb-cunh4t/static/js/main.fee3fd09.chunk.js",
+    "main.js.map": "https://praveenme117.github.io/csb-cunh4t/static/js/main.fee3fd09.chunk.js.map",
     "runtime-main.js": "https://praveenme117.github.io/csb-cunh4t/static/js/runtime-main.179b7138.js",
     "runtime-main.js.map": "https://praveenme117.github.io/csb-cunh4t/static/js/runtime-main.179b7138.js.map",
-    "static/js/2.955ad83d.chunk.js": "https://praveenme117.github.io/csb-cunh4t/static/js/2.955ad83d.chunk.js",
-    "static/js/2.955ad83d.chunk.js.map": "https://praveenme117.github.io/csb-cunh4t/static/js/2.955ad83d.chunk.js.map",
+    "static/js/2.6a5499c5.chunk.js": "https://praveenme117.github.io/csb-cunh4t/static/js/2.6a5499c5.chunk.js",
+    "static/js/2.6a5499c5.chunk.js.map": "https://praveenme117.github.io/csb-cunh4t/static/js/2.6a5499c5.chunk.js.map",
     "index.html": "https://praveenme117.github.io/csb-cunh4t/index.html",
     "static/css/main.fcd3cfe6.chunk.css.map": "https://praveenme117.github.io/csb-cunh4t/static/css/main.fcd3cfe6.chunk.css.map",
-    "static/js/2.955ad83d.chunk.js.LICENSE.txt": "https://praveenme117.github.io/csb-cunh4t/static/js/2.955ad83d.chunk.js.LICENSE.txt",
+    "static/js/2.6a5499c5.chunk.js.LICENSE.txt": "https://praveenme117.github.io/csb-cunh4t/static/js/2.6a5499c5.chunk.js.LICENSE.txt",
     "static/media/Resume.da0635a9.pdf": "https://praveenme117.github.io/csb-cunh4t/static/media/Resume.da0635a9.pdf",
-    "static/media/portf.e031e175.jpg": "https://praveenme117.github.io/csb-cunh4t/static/media/portf.e031e175.jpg",
-    "static/media/prof.b5aec7c5.jpg": "https://praveenme117.github.io/csb-cunh4t/static/media/prof.b5aec7c5.jpg"
+    "static/media/portf.4128d95a.jpg": "https://praveenme117.github.io/csb-cunh4t/static/media/portf.4128d95a.jpg",
+    "static/media/prof.3e733c6f.jpg": "https://praveenme117.github.io/csb-cunh4t/static/media/prof.3e733c6f.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.179b7138.js",
-    "static/js/2.955ad83d.chunk.js",
+    "static/js/2.6a5499c5.chunk.js",
     "static/css/main.fcd3cfe6.chunk.css",
-    "static/js/main.32fe7259.chunk.js"
+    "static/js/main.fee3fd09.chunk.js"
   ]
 }
